@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/FAQaccording/static/css/main.402f8ac6.css",
+    "main.js": "/FAQaccording/static/js/main.55c78178.js",
+    "static/js/787.864d35d2.chunk.js": "/FAQaccording/static/js/787.864d35d2.chunk.js",
+    "static/media/background-pattern-desktop.svg": "/FAQaccording/static/media/background-pattern-desktop.621478cf83f8150af60411d3765de0eb.svg",
+    "index.html": "/FAQaccording/index.html",
+    "static/media/icon-star.svg": "/FAQaccording/static/media/icon-star.189fd38b8aefdc8fbe0d4008b1ff497e.svg",
+    "static/media/icon-plus.svg": "/FAQaccording/static/media/icon-plus.6c5381bcc9a768ea5c3683e11c6bfd6c.svg",
+    "static/media/icon-minus.svg": "/FAQaccording/static/media/icon-minus.5575b6de09a1e0deab1dd585ada35f31.svg",
+    "main.402f8ac6.css.map": "/FAQaccording/static/css/main.402f8ac6.css.map",
+    "main.55c78178.js.map": "/FAQaccording/static/js/main.55c78178.js.map",
+    "787.864d35d2.chunk.js.map": "/FAQaccording/static/js/787.864d35d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.402f8ac6.css",
+    "static/js/main.55c78178.js"
+  ]
+}
